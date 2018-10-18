@@ -1,0 +1,66 @@
+body {
+   background-image: url(imagens/Layout_Cafe_com_Gelo.png); 
+}
+
+img{
+    padding: 0px 400px;
+}
+
+h1, .centra{
+    text-align: center;
+}
+
+
+.IntegrantesImg{
+    padding: 0px 0px 0px 40px;
+}
+
+.Quadros {
+    font-size: 15px;
+    color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+}
+
+.Integrantes {
+   font-size: 15px;
+   color: white;
+   border-color: black;
+   border-width: 2px;
+   border-style: solid;
+   background-color: black;
+   margin: 0px 15px;
+}
+
+.Origem {
+    font-size: 15px;
+    color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    margin: 0px 5px;
+}
+
+.Inicio{
+    font-size: 15px;
+    color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    margin: 0px 5px;
+}
+
+.video {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+    left: 400px;
+    padding: 0px 0px 0px 0px;
+    margin-left: 50px;
+    margin: auto;
+}
